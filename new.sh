@@ -1,4 +1,0 @@
-
-
-
-echo "no Wayyyyy!!!"
